@@ -1,5 +1,5 @@
 
-# <img src=".\pic\logo.png" alt="" width="50"> <br>Welcome to Fairtrade Germany@GitHub
+# <img src=".\pic\logo.png" alt="" width="30"> Welcome to Fairtrade Germany@GitHub
 
 Fairtrade is a global network of member organizations dedicated to promoting socially fair and environmentally sustainable trade. We are the German member organization, based in Cologne.
 
