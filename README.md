@@ -20,4 +20,4 @@ On our GitHub profile, you will find tools and scripts for analyzing supply chai
 ### Get Involved
 We welcome contributions from developers, data analysts, and anyone passionate about fair trade and sustainability. Whether you're interested in improving our existing tools or developing new ones, we encourage you to get involved.
 
-Repos are maintained by [Cazta](https://github.com/Cazta), feel freee to reach out!
+Repos are maintained by [Cazta](https://github.com/Cazta), feel free to reach out!
